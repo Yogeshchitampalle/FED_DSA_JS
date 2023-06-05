@@ -55,3 +55,9 @@ ForEach,map,filter,reduce are all have = O(n) Linear
 
 
 
+//Algo design tech:-
+1.Bruse Forse:-
+2.Greedy:-
+3.Divide And Conquer:-
+4.Dynamic Programming:-
+5.Backtracking:- 
