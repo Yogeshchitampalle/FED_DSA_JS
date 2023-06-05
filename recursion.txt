@@ -1,0 +1,8 @@
+#Recursion:-it's problem solving tech where the solution depends on solutions to smaller 
+instance of the same problem
+>recursion is when a func call itself
+>used to simplify problem
+Aproach:-
+1.base case
+
+

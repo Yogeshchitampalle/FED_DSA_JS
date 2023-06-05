@@ -1,0 +1,57 @@
+1.what is algorithm ?
+  set of well defined instruction to solve a particular Problem.
+
+Charactristics:-
+-well defined input/output  
+-should be clr and unambigous 
+-lang free 
+
+  Why ?
+#As a Developer we are going to come across problem that we need to solve 
+#Learning algo translate to learning diff tech to efficiently solve those problem 
+#One problem can be solved in many ways using different algo
+#Every algo comes with it's own tradeoff when it comes to perfoemance 
+
+Algo analysis :-
+-depend upon many factors : 
+-codding lang,the computer the program run,
+-Other program running at the same time 
+
+# Time and Space Complexity
+Time Complexity:- amt of time taken by an algorithm to run,
+as a function of input size.
+It measures how the runtime of an algorithm increases as the input size grows.
+
+Space Complexity:- amt of memory taken by an algorithmto run,
+as a function of input size.
+It measures how the memory usage of an algorithm grows as the input size grows.
+
+Note:-
+ if our app need to be very quick and has plenty of memory to work with, 
+ We don't have to worry abt Space Complexity.
+
+#Rpresentation:-
+Asymptotic tools Rpresent time and Space Complexity
+1.Big-O Noataion:-  O [Worst case Complexity]
+2.Omega Notaion:- Ω [Beat case Complexity]
+3.Theta Noataion:- θ [Avg case Complexity]
+
+#Big-O Notaion:-
+
+the worst Complexity of an algorithmis Rpresent using Big-O Noataion.
+
+#Objects:-is a collection of key value pairs 
+time Complexity :-  constant  for insert,remove,access = O(1)
+search O(n) Linear same as 
+Objects.keys(), .values(), .entries()
+
+#Array :- 
+An Array is as an Ordered collection of values/Data 
+insert /remove at end - O(1) constant
+insert /remove at beginning - O(n) Linear
+access,push/pop are O(1) = Constant
+search,Shift,unShift,concat,slice,splice 
+ForEach,map,filter,reduce are all have = O(n) Linear 
+
+
+
